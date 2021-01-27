@@ -1,9 +1,20 @@
-# **Neural Network** created with _ML5_ from a _Daniel Shiffman_ tutorial
+# **String Classifier**
 
-### Details:
+**_Neural network_**
 
-- The NN can be trained by clicking on different points of a 2D _p5_ canvas
-- Different keys can be pressed before clicking to define different potential outputs for each x and y coordinate
-- Corresponding sounds play for the note of the key pressed from range C to E
-- T key is pressed to train
-- Predictions are shown in green
+### Description:
+
+This small program uses a simple neural network to classify strings. I created it as a test to see if neural networks were intelligent enough to distinguish strings even with slight differences to the structure of them.
+
+### Result:
+
+Unfortunately this experiment ended unsuccessfully with the neural network not capable of seeing text input as quantifiable data.
+
+### The next step:
+
+This experiment led me to return to research and discover word2vec: an algorithm that translates text into numbers making them easier for NNs to infer from.
+
+### Libraries used:
+
+- ML5.js
+- p5.js
