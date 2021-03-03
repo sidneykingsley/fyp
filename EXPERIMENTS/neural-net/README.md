@@ -4,7 +4,7 @@
 
 ### Description:
 
-This program uses a simple neural network to classify XY coordinates of a mouse click within a canvas. I followed a Daniel Shiffman _The Coding Train_ video tutorial. [^1]
+This program uses a simple neural network to classify XY coordinates of a mouse click within a canvas. To create this I followed a Daniel Shiffman _The Coding Train_ video tutorial.<sup>1</sup>
 
 ### Result:
 
@@ -26,3 +26,7 @@ Creating my own NN with my own purpose, interface and dataset.
 - Corresponding sounds play for the note of the key pressed from range C to E
 - T key is pressed to train
 - Predictions are shown in green
+
+### References:
+
+1. https://www.youtube.com/watch?v=8HEgeAbYphA&list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y&index=15

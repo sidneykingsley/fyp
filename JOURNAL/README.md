@@ -1,16 +1,16 @@
-# **FYP JOURNAL**
+# **JOURNAL**
 
 _Sidney Asper Kingsley_  
 _DAT611_  
 _Digital Media Design_  
 _University of Plymouth_
 
-### Introduction
+### Introduction:
 
 This is the journal for my final year project (FYP).
 Throughout this project I will use this as resource to document my progress and reflect on the decisions I have made.
 
-### Proposal
+### Proposal:
 
 _14/01/2021_
 

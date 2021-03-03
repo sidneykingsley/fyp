@@ -12,9 +12,13 @@ Unfortunately this experiment ended unsuccessfully with the neural network not c
 
 ### The next step:
 
-This experiment led me to return to research and discover word2vec: an algorithm that translates text into numbers making them easier for NNs to infer from.
+This experiment led me to return to research and discover word2vec: a family of model architectures that translates text into numbers making them easier for NNs to infer from.<sup>1</sup>
 
 ### Libraries used:
 
 - ML5.js
 - p5.js
+
+### References:
+
+1. https://www.tensorflow.org/tutorials/text/word2vec
